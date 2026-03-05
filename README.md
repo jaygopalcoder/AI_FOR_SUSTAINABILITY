@@ -49,6 +49,8 @@ visualizations/: Plots for class distribution and the final Confusion Matrix.
 
 land_use_dataset.csv: The final processed dataset used for training.
 
+NOTE : BEFORE TRY TO RUN THE CODE CHECK FOR THE PATHS(Please update the path variables at the top of the scripts to match your local data storage location before running."). YOU CAN DIRECTLY DOWNLOAD ALL DATA FROM LINK GIVEN ON AI for Sustainability support doc ATTACHED IN DATA FOLDER.
+
 CREDITS
 
 INDEPENDENT WORK: All geospatial logic, spatial filtering (Q1), and automated labeling workflows (Q2) were developed independently by me by learning the required libraries for the operations from various internet source mainly GeeksforGeeks.
